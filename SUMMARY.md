@@ -11,12 +11,5 @@
         * [插件介绍](study/gitbook/plug-in.md)
         * [文档分享](study/gitbook/documents-sharing.md)
         * [本文配置](study/gitbook/this-configuration.md)
------
-* [工作文档](diary/diary.md)
-    * [2018年](diary/2018/2018-summary.md)
-        * [08月](diary/2018/08.md)
-        * [09月](diary/2018/09.md)
-        * [10月](diary/2018/10.md)
-        * [11月](diary/2018/11.md)
-        * [12月](diary/2018/12.md)
+
 

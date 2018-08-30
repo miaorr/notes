@@ -229,15 +229,14 @@ $$
 > **[info] 使用示例**
 
 ```
-    [include](other/test.js)
-
+[include](other/test.js)
     or
-
-    [import](other/test.js)
-
+[import](other/test.js)
 ```
 
 效果如下：
+
+
 
 [include](other/test.js)
 
@@ -271,15 +270,15 @@ $$
 > **[info] 使用示例**
 
 
-```
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
-```
+`````
+    ```mermaid
+    graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+    ```
+`````
 
 效果如下：
 
@@ -514,25 +513,25 @@ Bob->Alice : hello
 
 效果如下：
 
-    Info styling
-    > **[info] For info**
-    >
-    > Use this for infomation messages.
+Info styling
+> **[info] For info**
+>
+> Use this for infomation messages.
 
-    Warning styling
-    > **[warning] For warning**
-    >
-    > Use this for warning messages.
+Warning styling
+> **[warning] For warning**
+>
+> Use this for warning messages.
 
-    Danger styling
-    > **[danger] For danger**
-    >
-    > Use this for danger messages.
+Danger styling
+> **[danger] For danger**
+>
+> Use this for danger messages.
 
-    Success styling
-    > **[success] For info**
-    >
-    > Use this for success messages.
+Success styling
+> **[success] For info**
+>
+> Use this for success messages.
 
 ### Include-csv
 
