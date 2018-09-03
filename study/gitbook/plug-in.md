@@ -132,6 +132,8 @@
 
 [advanced-emoji插件](https://plugins.gitbook.com/plugin/advanced-emoji)：支持emoji表情
 
+[表情列表](http://www.emoji-cheat-sheet.com)
+
 ```json
 {
     "plugins": [
@@ -140,6 +142,17 @@
 }
 ```
 
+> **[info] 使用示例**
+
+```
+<!-- ignore:advanced-emoji:start -->
+:bowtie:
+<!-- ignore:advanced-emoji:end -->
+```
+
+效果如下：
+
+:bowtie:
 
 ### Github
 
